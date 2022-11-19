@@ -1,0 +1,80 @@
+body{
+background-image: url(back.jpg);
+background-repeat: no-repeat;
+background-position: cover;
+background-attachment: scroll;
+background-size: 200%;
+margin: 0;
+}
+.head{
+background-color: white;
+padding: 10px;
+margin-right: 0px;
+text-align: center;
+font-size: px;
+}
+.btn{
+height: 20%;
+width: 25%;
+color: green;
+border: 2px solid green;
+padding: 3px;
+}
+img{
+border-radius: 50px;
+height: 50px;
+width: 50px;
+margin-right: 20px;
+position: absolute;
+left: 20px;
+top: 5px;
+}
+#topbar{
+display: inline;
+background-color: black;
+color: white;
+text-align: center;
+font-size: 10px;
+position: fixed;
+width: 100%;
+padding: 25px 10px;
+padding-left: 2px;
+}
+.nav2{
+color: darkslategrey;
+text-shadow: darkslategrey;
+padding-left: 80px;
+}
+.lastP{
+text-align: center;
+background-color: black;
+padding: 20px 8px;
+color: white;
+opacity: 0.7;
+margin: 200px;
+
+}
+.sec1{
+
+}
+a{
+position: absolute;
+left: 80px;
+color: white;
+text-decoration: none;
+}
+p{
+font-size: 10px;
+}
+.nav1{
+padding-left: 80px;
+}
+.nav3{
+padding-left: 80px;
+}
+.nav4{
+padding-left: 80px;
+}
+.nav5{
+padding-left: 80px;
+}
